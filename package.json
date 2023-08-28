@@ -1,7 +1,7 @@
 {
-  "name": "gulp-mjml",
+  "name": "pe-gulp-mjml",
   "version": "4.0.2",
-  "description": "Add Gulp to your MJML workflow",
+  "description": "Add Gulp to your MJML workflow . Nunjucks edition",
   "main": "src/index",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -22,6 +22,6 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://github.com/mjmlio/gulp-mjml.git"
+    "url": "https://github.com/kompuser/pe-gulp-mjml.git"
   }
 }
